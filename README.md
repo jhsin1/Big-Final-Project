@@ -4,6 +4,7 @@ Team Members: Elizabeth Lee (ell129@pitt.edu), Jessica Hsin (jeh339@pitt.edu), D
 Team Name: Wowie
 Canvas Team Number: 12
 Finding the best neighborhood for older people in Pittsburgh
+Each individual's notebook has each's name on.
 
 # Link to Data Files
 [PoliceIncidentBlotter](https://data.wprdc.org/dataset/police-incident-blotter/resource/1797ead8-8262-41cc-9099-cbc8a161924b) - Jessica
